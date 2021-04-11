@@ -85,7 +85,7 @@ gem install bundler
 ## 1- Instalando as gemas:
 No terminal, dentro da pasta raiz do projeto, execute o comando abaixo
 ``` bash
-gem install bundler
+bundler install 
 ```
 
 ## Abaixo o comando para rodar a automação:
