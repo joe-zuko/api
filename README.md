@@ -18,9 +18,7 @@ Entre algumas de suas funcionalidades, estão:
     • Ruby for Windows/Linux: linguagem de programação utilizada nos testes. 
     • Cmder for Windows: Sistema que trás as funcionalidades bash (Terminal) para o Windows. 
     • DevKit: Kit de ferramentas que o sistema operacional precisa para que o desenvolvimento funcione. 
-    • Chromedriver: Driver do navegador que será utilizado na automação. Disponível no site do https://sites.google.com/a/chromium.org/chromedriver/downloads. 
-    • GeckoDriver: Driver do navegador Firefox. Disponível no site https://github.com/mozilla/geckodriver/releases . 
-    • IEdriver: Driver do navegador Internet Explorer. Disponível no site http://selenium-release.storage.googleapis.com/3.4/IEDriverServer_Win32_3.4.0.zip versão 32bits ou http://selenium-release.storage.googleapis.com/3.4/IEDriverServer_x64_3.4.0.zip versão 64bits. 
+   
 
 ## Configurando o ambiente de automação de testes Web
 
