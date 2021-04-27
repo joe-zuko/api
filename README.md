@@ -4,6 +4,12 @@ Bem vindo ao projeto de automação de Api.
 
 Ele foi todo criado utilizando Rspec, Ruby, Httparty, FactoryBot e Faker.
 
+É um projeto simples somente para quem quer entender um pouco sobre API com RSPEC
+
+Para quem quiser ver um projeto de API complexo, procure no meu repositório no link abaixo:
+
+https://github.com/joe-zuko/automation-project-api
+
 Foi utilizado o site https://www.mockapi.io para a simulação de uma Api respeitando a saida da documentação descrita no site.
 
 Total de cenários: 7
